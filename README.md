@@ -1,1 +1,1 @@
-# creating-a-prject
+# creating-a-project
